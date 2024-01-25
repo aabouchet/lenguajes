@@ -1,0 +1,8 @@
+Función: agregar_datos
+Argumentos: ('d', 'd', 'd', 'd', <tkinter.ttk.Treeview object .!treeview>)
+Fecha y Hora: 2023-11-22 15:11:42.712426
+
+Función: agregar_datos
+Argumentos: ('h6777', 'h', 'h', 'h', <tkinter.ttk.Treeview object .!treeview>)
+Fecha y Hora: 2023-12-22 17:19:41.241388
+
