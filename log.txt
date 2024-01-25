@@ -1,0 +1,5 @@
+Recibida conexión desde 192.168.0.11 a las 2023-11-22 15:11:36
+Datos recibidos: Sistema: Windows 10, Versión de Python: 3.9.13
+Usuario: aabou
+
+----------------------------------------
